@@ -1,9 +1,9 @@
 # GEOG5990M--201774746-FINAL-REPORT
 
-# DUE TO GIT HUB NOT ALLOWING BIG FILES TO BE UPLOADED, IM GOING TO HAVE TO ASK YOU TO DOWNLOAD THE DISTRICT  DATA YOURSELF. I APOLOGISE BUT I WAS UNAWARE OF THIS UNTIL NOW.
+# DUE TO GIT HUB NOT ALLOWING BIG FILES TO BE UPLOADED, IM GOING TO HAVE TO ASK YOU TO DOWNLOAD THE DISTRICT  DATA YOURSELF. I APOLOGISE BUT I WAS UNAWARE OF THIS UNTIL NOW. GIVEN THAT THE COMPRESSED FILE ZIE IS 34KB AND NOT MB, I THOUGHT THIS WAS FINE BUT IT APPEARS TO BE TOO BIG.
 
 Sources
-Local Authority Districts shapefile- https://geoportal.statistics.gov.uk/datasets/196d1a072aaa4882a50be333679d4f63_0/about [Accessed May 1st]
+Local Authority Districts shapefile- [[https://geoportal.statistics.gov.uk/datasets/196d1a072aaa4882a50be333679d4f63_0/about ](https://geoportal.statistics.gov.uk/datasets/196d1a072aaa4882a50be333679d4f63_0/about)] [Accessed May 1st]
 Green space dataset- https://www.data.gov.uk/dataset/4413c03c-762a-47ad-a865-6c1eee77fe6c/land-use-statistics-generalised-land-use-database  [Accessed May 1st]
 Health- https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=2055 [Accessed May 2nd] 
 Highest level of qualification- https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=2084 [Accessed May 2nd]
