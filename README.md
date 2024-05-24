@@ -1,4 +1,7 @@
 # GEOG5990M--201774746-FINAL-REPORT
+
+# DUE TO GIT HUB NOT ALLOWING BIG FILES TO BE UPLOADED, IM GOING TO HAVE TO ASK YOU TO DOWNLOAD THE DISTRICT  DATA YOURSELF. I APOLOGISE BUT I WAS UNAWARE OF THIS UNTIL NOW.
+
 Sources
 Local Authority Districts shapefile- https://geoportal.statistics.gov.uk/datasets/196d1a072aaa4882a50be333679d4f63_0/about [Accessed May 1st]
 Green space dataset- https://www.data.gov.uk/dataset/4413c03c-762a-47ad-a865-6c1eee77fe6c/land-use-statistics-generalised-land-use-database  [Accessed May 1st]
